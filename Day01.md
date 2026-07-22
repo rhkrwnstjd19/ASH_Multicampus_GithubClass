@@ -8,3 +8,5 @@ git push -u origin main
 git remote add origin https://github.com/rhkrwnstjd19/ASH_Multicampus_GithubClass.git
 git branch -M main
 git push -u origin main
+
+수정수정
