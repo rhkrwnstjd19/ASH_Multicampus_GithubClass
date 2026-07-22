@@ -1,3 +1,4 @@
+```bash
 git init  #초기화
 git add README.md
 git commit -m "first commit"
@@ -7,4 +8,5 @@ git push -u origin main
 
 git remote add origin https://github.com/rhkrwnstjd19/ASH_Multicampus_GithubClass.git
 git branch -M main
-git push -u origin main
+git push -u origin main 
+```
